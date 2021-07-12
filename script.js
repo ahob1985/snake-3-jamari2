@@ -1,4 +1,6 @@
-// Author:
+// Author: Jamari Washington
+
+//https://teachablemachine.withgoogle.com/models/ulNG4X9iq/
 
 // Global UI Variables
 let canvasDiv;
